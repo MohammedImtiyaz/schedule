@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: 600016619
+Build-Jdk: 9.0.1
+Implementation-Title: Schedule
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.demo
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/Schedule/
+Created-By: Maven Integration for Eclipse
+
